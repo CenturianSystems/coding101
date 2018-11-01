@@ -8,4 +8,4 @@
 ***
 ### Visit us at **[our :spider_web:site](https://coding101.tk)** :point_left:
 
-### Contribute to us at [GITHUB](https://github.com/CenturianSystems/coding101) :octocat:
+### Contribute to us at [:octocat:](https://github.com/CenturianSystems/coding101)
