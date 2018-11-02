@@ -1,0 +1,18 @@
+.my-head {
+    background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(20, 20, 20, 0.8)), url("../images/pic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40em;
+}
+#demo{
+    text-align: center;
+    color: white;
+    font-size: 8em;
+}
+.countdown{
+    text-align: center;
+    color: white;
+    padding-top: 2.5em;
+    font-size: 4em;
+}
