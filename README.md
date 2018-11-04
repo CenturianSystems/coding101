@@ -11,3 +11,5 @@
 ### Visit us at **[our :spider_web:site](https://coding101.tk)** :point_left:
 
 ### Contribute to us at [:octocat:](https://github.com/CenturianSystems/coding101)
+
+### Join us on [Slack](team-coding101.slack.com) :+1:
