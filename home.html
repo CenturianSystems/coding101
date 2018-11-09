@@ -15,7 +15,7 @@
 </head>
 
 <body class="my-head" onload="typeWriter()">
-    <header>
+    <header id="sec1">
         <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="#">Coding101</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -26,25 +26,24 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link scroll" href="#home" id="1">
                             <span class="fa fa-home"></span>
                             Home
                             <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="#about" id="2">
                             <span class="fa fa-globe"></span>
                             About
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link scroll" href="#contact" id="3">
                             <span class="fa fa-phone"></span>
                             Contact
                         </a>
                     </li>
-
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">
@@ -60,7 +59,9 @@
                         </div>
                     </li>
                 </ul>
+                <script>
 
+                </script>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a href="./signup.html" class="nav-link">
@@ -114,9 +115,10 @@
         <script src="./js/counter.js"></script>
     </section>
 
-    <section id="team" class="pb-5">
+    <section id="team sec2" class="pb-5">
         <div class="container">
             <h5 class="section-title h1">OUR TEAM</h5>
+            <hr>
             <div class="row">
                 <!-- Team member -->
                 <div class="col-xs-12 col-sm-6 col-md-6">
@@ -176,8 +178,7 @@
                             <div class="frontside">
                                 <div class="card">
                                     <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="./images/team/mohita.jpeg"
-                                                alt="card image"></p>
+                                        <p><img class=" img-fluid" src="./images/team/mohita.jpeg" alt="card image"></p>
                                         <h4 class="card-title">Mohita</h4>
                                         <p class="card-text">Web Designer</p>
                                         <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
@@ -188,7 +189,8 @@
                                 <div class="card">
                                     <div class="card-body text-center mt-4">
                                         <h4 class="card-title">Mohita</h4>
-                                        <p class="card-text">A creative designer and a hard worker, Mohita has contributed a lot 
+                                        <p class="card-text">A creative designer and a hard worker, Mohita has
+                                            contributed a lot
                                             into the success of the startup.
                                         </p>
                                         <ul class="list-inline">
@@ -219,9 +221,45 @@
         </div>
     </section>
 
-    <footer>
-        
-    </footer>
+    <section id="contact sec3" class="desc">
+        <div class="container">
+            <div class="well well-sm">
+                <h1>Contact Us</h1>
+                <hr>
+            </div>
+
+            <div class="row">
+                <div class="col-md-7">
+                        <h2>Come Visit us over a coffee <span class="fa fa-coffee"></span></h2>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.1749715516976!2d76.65758911452315!3d30.516091103093526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fc32344a6e2d7%3A0x81b346dee91799ca!2sChitkara+University!5e0!3m2!1sen!2sin!4v1541773905214"
+                        width="600" height="450" frameborder="0" style="border:0" id="map" allowfullscreen></iframe>
+                </div>
+
+                <div class="col-md-5">
+                    <h2>Get in Touch</h2>
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="" value="" placeholder="Name">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" name="" value="" placeholder="E-mail">
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" class="form-control" name="" value="" placeholder="Phone">
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
+                        </div>
+                        <button class="btn btn-default" type="submit" name="button">
+                            <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 </body>
 
 </html>
