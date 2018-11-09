@@ -60,9 +60,6 @@ html,body
 }
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-#team {
-    background: #eee !important;
-}
 
 .btn-primary:hover,
 .btn-primary:focus {
@@ -84,7 +81,7 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #fff;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
@@ -196,7 +193,22 @@ section .section-title {
     text-align: center;
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media ( max-width: 768px ) {
+    #map{
+        width: 350px;
+        height: 400px;
+    }
+}
+
+hr{
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #fff; /* old IE */
+    background-color: #fff;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
   .countdown{
       font-size : 3em;
       padding-top: 3em;
@@ -206,5 +218,9 @@ section .section-title {
   }    
   #demo1{
       font-size: 4em;
+  }
+  #map{
+      width: 350px;
+      height: 400px;
   }
 }
