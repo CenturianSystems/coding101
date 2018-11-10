@@ -7,7 +7,7 @@
 - All that for **FREE** :boom:
 
 ***
-### Visit us at **[our :spider_web:site](https://coding101.tk)** :point_left:
+### Visit us at **[our :spider_web:site](https://code-learn-work.github.io/coding101/)** :point_left:
 
 ### Contribute to us at [:octocat:](https://github.com/Code-Learn-Work/coding101)
 
