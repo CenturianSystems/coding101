@@ -1,5 +1,4 @@
-# Coding101 :smile:
-<img src="./images/coding101.jpg" width="400">
+<img src="./images/c101-1.png">
 
 - A website :spider: to learn coding :computer: on your own :100:
 - No need to study huge amount of books :books: :x:
