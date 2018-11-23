@@ -1,4 +1,4 @@
-<img src="./images/c101-1.png">
+<img src="./images/codage101.png" width="550">
 
 - A website :spider: to learn coding :computer: on your own :100:
 - No need to study huge amount of books :books: :x:
