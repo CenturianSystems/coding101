@@ -1,6 +1,6 @@
 var i = 0;
 var j = 0;
-var txt = 'Coding101'; /* The text */
+var txt = 'Codage101'; /* The text */
 var txt1 = 'One place for all your problems!';
 var speed1 = 150; /* The speed/duration of the effect in milliseconds */
 var speed2 = 50;
