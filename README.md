@@ -7,8 +7,8 @@
 - All that for **FREE** :boom:
 
 ***
-### Visit us at **[our :spider_web:site](https://code-learn-work.github.io/coding101/)** :point_left:
+### Visit us at **[our :spider_web:site](https://code-learn-work.github.io/codage101/)** :point_left:
 
-### Contribute to us at [:octocat:](https://github.com/Code-Learn-Work/coding101)
+### Subscribe to our [Youtube Channel](https://www.youtube.com/channel/UCK3tMYk6lmyByIZ8-1Tk1aQ)
 
-### Join us on [Slack](team-coding101.slack.com) :+1:
+### Contribute to us at [:octocat:](https://github.com/Code-Learn-Work/codage101)
