@@ -11,4 +11,4 @@
 
 ### Subscribe to our [Youtube Channel](https://www.youtube.com/channel/UCK3tMYk6lmyByIZ8-1Tk1aQ)
 
-### Contribute to us at [:octocat:](https://github.com/Code-Learn-Work/codage101)
+### Contribute to us at [:octocat:](https://github.com/Code-Learn-Work/codage101
